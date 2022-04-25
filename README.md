@@ -1,6 +1,6 @@
 ### Simple peer-to-peer file exchange system that uses a central server for getting user data, includes server and client packages
 
-Example:
+Structure:
 
 ![Peer-to-Peer Diagram](images/peer-to-peer.png)
 
